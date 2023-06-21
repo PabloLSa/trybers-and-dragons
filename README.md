@@ -1,6 +1,6 @@
 
 ### Trybers and Dragons
-🚀✨🧑
+🚀✨🧑🧑‍💻git p
 
 Descrição do Projeto
 O Trybers and Dragons é uma aplicação em TypeScript que permite a criação e gestão de raças, arquétipos e personagens inspirados no universo de fantasia medieval. 
